@@ -1,4 +1,4 @@
-# Set Up Guide
+# Set Up Guides
 
 ## Spotify
 
